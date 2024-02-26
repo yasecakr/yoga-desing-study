@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YogaDesingStudy</string>
+    <string name="check_out">Check out online courses and attend class</string>
+    <string name="parent">Parent</string>
+    <string name="beginner">Beginner</string>
+    <string name="choose">Choose the type of yoga</string>
+    <string name="yoga_exercise">Yoga Exercise</string>
+    <string name="yoga">Yoga</string>
+    <string name="expert">Expert</string>
+</resources>
